@@ -3,7 +3,7 @@ layout: page
 title: Gallery
 permalink: /gallery/
 description: Photos from our social and outreach activities
-#nav: true
+nav: false
 nav_order: 7
 display_categories: [work, fun]
 horizontal: false
