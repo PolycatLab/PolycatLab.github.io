@@ -5,5 +5,14 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"Vision":
+"Journal Article":
   color: "#009f36"
+
+"Book Chapter":
+  color: "#F58024"
+  
+"Patent":
+  color: "#994FB2"
+  
+"Thesis":
+  color: "#fe61b0"

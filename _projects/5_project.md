@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Chemical Recycling
+description: TROPIC - a thermodynamic database for ROP
 img: assets/img/1.jpg
-importance: 3
-category: fun
+importance: 5
+category: Polymers
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Metal-Metal cooperativity
+description: Boosting Ti-salen catalyst activity with a pinch of silver salt 
+img: assets/img/7.jpg
+importance: 4
+category: Catalysts
 ---
 
 Every project has a beautiful feature showcase page.

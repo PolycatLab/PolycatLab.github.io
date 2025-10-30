@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Al-Catam
+description: Our family of Aluminium catam catalysts for ROP
+img: assets/img/catam.png
 importance: 2
-category: work
-giscus_comments: true
+category: Catalysts
 ---
 
 Every project has a beautiful feature showcase page.

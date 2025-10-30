@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: A growing collection of our ongoing projects...
+title: Gallery
+permalink: /gallery/
+description: Photos from our social and outreach activities
 nav: true
-nav_order: 3
-display_categories: [Catalysts, Polymers, FAIR data]
+nav_order: 7
+display_categories: [work, fun]
 horizontal: false
 ---
 

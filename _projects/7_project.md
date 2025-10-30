@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: CHAMP
+description: A platform for using HPC
 img: assets/img/4.jpg
-importance: 1
-category: work
+importance: 7
+category: FAIR data
 related_publications: true
 ---
 
