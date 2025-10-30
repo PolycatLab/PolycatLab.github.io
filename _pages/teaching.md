@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: Supplementary materials for some courses taught by Charles.
-nav: true
+nav: false
 nav_order: 6
 ---
 
