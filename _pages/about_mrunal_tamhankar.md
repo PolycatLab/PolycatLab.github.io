@@ -4,6 +4,8 @@
 PhD student since Oct 2023
 -----
 
+##### Project co-supervision: Prof. Nick Long (Chemistry)
+
 Mrunal is a first-year PhD student working on developing switchable catalysts for lactide polymerisation. This project is kindly supported by means of the Wilkinson Trust Scholarship and is co-supervised by Professor Nick Long.
 
 She graduated from Imperial College London in 2023 with an MSci in Chemistry. 
