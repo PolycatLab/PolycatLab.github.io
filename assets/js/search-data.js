@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/members/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A growing collection of our ongoing projects...",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-publications",
           title: "Publications",
           description: "All peer-reviewed publications from Charles Romain (reversed chronological order). Publications before 2016 are from PhD (Strasbourg, France) and post-doctoral work (London, UK).",
@@ -36,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
-          },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Supplementary materials for some courses taught by Charles.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "nav-opportunity",
           title: "Opportunity",
