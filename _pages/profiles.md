@@ -44,6 +44,15 @@ profiles:
       <p>MSRH, 82 Wood Lane</p>
       <p>W12 0BZ, London</p>
       
+  - align: right
+    image: cristiana_darie.jpg
+    content: about_cristiana_darie.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Open space, 5th Floor</p>
+      <p>MSRH, 82 Wood Lane</p>
+      <p>W12 0BZ, London</p>
+
   - content: about_former_members.md
     
 ---
