@@ -3,6 +3,9 @@
 
 #### 2025-2026
 - Ani Mull - MSci student
+- Oscar Nouailhetas - MSc student
+- Stela Wang - Exchange student from ESPCI (Paris)
+- Inez Klein Gebbing - Exchange student from Utrecht University
 
 #### 2024-2025
 - Gavin Smith - PhD student (viva in Sept 2025) and RA
