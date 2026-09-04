@@ -6,6 +6,7 @@
 - Oscar Nouailhetas - MSc student
 - Stella Wang - Exchange student from ESPCI (Paris)
 - Inez Klein Gebbing - Exchange student from Utrecht University
+- Kayathry Vickneswaran - MSc student (Digital Chemistry)
 
 #### 2024-2025
 - Gavin Smith - PhD student (viva in Sept 2025) and RA
