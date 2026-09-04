@@ -4,7 +4,7 @@
 #### 2025-2026
 - Ani Mull - MSci student
 - Oscar Nouailhetas - MSc student
-- Stela Wang - Exchange student from ESPCI (Paris)
+- Stella Wang - Exchange student from ESPCI (Paris)
 - Inez Klein Gebbing - Exchange student from Utrecht University
 
 #### 2024-2025
