@@ -1,4 +1,4 @@
-<a href='#'>Former group members<a>
+<a href='#'>Former group members</a>
 ================
 
 #### 2025-2026
