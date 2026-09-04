@@ -1,6 +1,9 @@
 <a href='#'>Former group members<a>
 ================
 
+#### 2025-2026
+- Ani Mull - MSci student
+
 #### 2024-2025
 - Gavin Smith - PhD student (viva in Sept 2025) and RA
 - Fred Lawrence - MSci student
