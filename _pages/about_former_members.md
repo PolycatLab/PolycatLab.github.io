@@ -3,7 +3,7 @@
 
 #### 2025-2026
 - Ani Mull - MSci student
-- Oscar Nouailhetas - MSci student
+- Oscar Nouailhetas - MSc student
 - Stella Wang - Exchange student from ESPCI (Paris)
 - Inez Klein Gebbing - Exchange student from Utrecht University
 - Kayathry Vickneswaran - MSc student (Digital Chemistry)
