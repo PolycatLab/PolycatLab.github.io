@@ -64,7 +64,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-we-have-a-new-website-sparkles",
+            },},{id: "news-welcome-to-our-new-msci-students-oscar-and-ani",
+          title: 'Welcome to our new MSci students Oscar and Ani !',
+          description: "",
+          section: "News",},{id: "news-we-have-a-new-website-sparkles",
           title: 'We have a new website! :sparkles:',
           description: "",
           section: "News",},{id: "news-last-days-for-thibault-in-the-lab-sad-to-see-leaving-thanks-for-your-hard-work-and-good-luck-with-your-report-and-viva",
