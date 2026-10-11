@@ -22,7 +22,7 @@ Candidates interested to carry out a project in our group are encouraged to cont
 ---
 ### [President's PhD Scholarships](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/) (open)
 
-The deadline for the first round of the President’s scholarship is **3rd November 2026**.
+The deadline for the first round of the President’s scholarship is **2nd November 2026**.
 
 The President’s PhD Scholarships aims to provide up to 50 research students with great potential the opportunity to work within their chosen research field with the support of an excellent supervisor.
 
