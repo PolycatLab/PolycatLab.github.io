@@ -9,7 +9,7 @@ nav_order: 8
 
 ### [Department of Chemistry PhD scholarships](https://www.imperial.ac.uk/chemistry/postgraduate/phd/phd-studentships/) (open)
 
-The Department of Chemistry has departmental scholarships for PhD applicants starting in 2026/27 (more details [here](https://www.imperial.ac.uk/chemistry/postgraduate/phd/phd-studentships/)).
+The Department of Chemistry has departmental scholarships for PhD applicants starting in 2027/28 (more details [here](https://www.imperial.ac.uk/chemistry/postgraduate/phd/phd-studentships/)).
 
 This scheme is only eligible to applicants who have home fee status. The scholarship will cover the full fees and stipend (UKRI London rate) for the 3 years 6 months of the student’s PhD studies.
 
@@ -17,12 +17,12 @@ The Departmental Scholarship Panel will consider academic excellence, research p
 
 Candidates interested to carry out a project in our group are encouraged to contact [Charles Romain](mailto:c.romain@imperial.ac.uk)
 
-**Deadline for application**: TBC - likely late Novembre/Early Decembre 2025
+**Deadline for application**: TBC - likely late Novembre/Early Decembre 2026
 
 ---
 ### [President's PhD Scholarships](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/) (open)
 
-The deadline for the first round of the President’s scholarship is **3rd November 2025**.
+The deadline for the first round of the President’s scholarship is **3rd November 2026**.
 
 The President’s PhD Scholarships aims to provide up to 50 research students with great potential the opportunity to work within their chosen research field with the support of an excellent supervisor.
 
