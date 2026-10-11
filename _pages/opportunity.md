@@ -17,7 +17,7 @@ The Departmental Scholarship Panel will consider academic excellence, research p
 
 Candidates interested to carry out a project in our group are encouraged to contact [Charles Romain](mailto:c.romain@imperial.ac.uk)
 
-**Deadline for application**: TBC - likely late Novembre/Early Decembre 2026
+**Deadline for application**: TBC - likely late November/Early December 2026
 
 ---
 ### [President's PhD Scholarships](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/) (open)
