@@ -5,76 +5,39 @@ description: Exploiting Non-Covalent Interactions (NCI) in polymerisation cataly
 img: assets/img/7.jpg
 importance: 3
 category: Catalysts
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Non-covalent interactions (NCIs) encompass a wide range of interactions, including ion pairing, hydrogen bonding, dipole-dipole interactions, π-π stacking, hydrophobic interactions, and van der Waals forces.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+There has been growing interest in harnessing NCIs in both organo- and metal-catalysed systems to enhance catalyst activity and selectivity. Various approaches have been developed to modify the first and second coordination spheres through ligand-substrate interactions, ligand-ligand interactions, and more sophisticated scenarios involving multiple interactions.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Our group is interested in translating these strategies to metal-catalysed polymerisation catalysis, not only to improve catalyst activity and selectivity but also to enable the polymerisation of challenging monomers, such as those with low ceiling temperatures.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+To date, we have reported two complementary strategies.
+
+The first employs *catam* aluminium catalysts, exploiting the cooperative role of the NH moieties within the *catam* ligand scaffold. This approach combines elements of organocatalysis and metal-based catalysis to enhance polymerisation performance.
+
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/NCI1.png" title="CatAm aluminium catalyst with N–H hydrogen-bond donors" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+Our second strategy involves the in situ formation of heterobimetallic species through the control of cation-π interactions between the phenolate moieties of salen-based titanium catalysts and silver salts. This enables the modulation of catalyst behaviour through secondary-sphere interactions.
+
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/NCI2.png" title="Ti-salen catalyst interacting with a silver cation (cation-π) and a weakly coordinating anion (WCA)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+For more details, check out our recent publications.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Publications
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+{% bibliography --cited %}
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+1. Gesslbauer, S.; Savela, R.; Chen, Y.; White, A. J. P.; Romain, C. Exploiting Noncovalent Interactions for Room-Temperature Heteroselective rac-Lactide Polymerization Using Aluminum Catalysts. *ACS Catal.* **2019**, *9*, 7912–7920. [10.1021/acscatal.9b00875](https://doi.org/10.1021/acscatal.9b00875)
+2. Baker, C. A.; Romain, C.; Long, N. J. Cationic-π Interactions enabling Hard/Soft Ti/Ag Heterobimetallic Cooperativity in Lactide Ring-Opening Polymerisation. *Chem. Commun.* **2021**, *57*, 12524–12527. [10.1039/D1CC05083D](https://doi.org/10.1039/D1CC05083D)
+3. Koh, J.; Baker, C. A.; Diamantakis, M. N.; Long, N. J.; Romain, C. A pinch of silver salt to enable rac-lactide ring-opening polymerisation at room temperature using Ti-salen complexes. *Polym. Chem.* **2025**, *16*, 1503–1508. [10.1039/D4PY01319K](https://doi.org/10.1039/D4PY01319K)

@@ -1,80 +1,25 @@
 ---
 layout: page
 title: Al-Catam
-description: Our family of Aluminium catam catalysts for ROP
+description: A family of aluminium catecholate-amine catalysts for fast, controlled, and highly selective ring-opening polymerisation
 img: assets/img/catam.png
 importance: 2
 category: Catalysts
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The Al-*catam* catalysts are our family of aluminium complexes built on catecholate-amine (*catam*) ligands, developed for the ring-opening polymerisation (ROP) of cyclic esters, such as lactide and ε-caprolactone.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+{% include figure.liquid path="assets/img/catam.png" title="General structure of an Al-catam complex" class="img-fluid rounded z-depth-1" %}
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Across three studies, this project has progressively built up a mechanistic picture of this catalyst family: from first demonstrating exceptional room-temperature activity for lactide ROP, to uncovering the role of non-covalent interactions in the catalytic pocket, to using chirality itself as a design handle to control catalyst aggregation and unlock even higher rates.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The group has a broad interest in catalyst design. We adopt a complementary experimental and computational approach to gain a better understanding of these systems and to guide the development of the next generation of polymerisation catalysts. Our holistic approach involves organic ligand and metal complex synthesis and characterisation, mechanistic studies (including structure–activity and kinetic studies), polymer synthesis and characterisation, and overarching computational studies.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Publications
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+{% bibliography --cited %}
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+1. Gesslbauer, S.; Cheek, H.; White, A. J. P.; Romain, C. Highly active aluminium catalysts for room temperature ring-opening polymerisation of rac-lactide. *Dalton Trans.* **2018**, *47*, 10410–10414. [10.1039/C8DT01526K](https://doi.org/10.1039/c8dt01526k)
+2. Gesslbauer, S.; Savela, R.; Chen, Y.; White, A. J. P.; Romain, C. Exploiting Noncovalent Interactions for Room-Temperature Heteroselective rac-Lactide Polymerization Using Aluminum Catalysts. *ACS Catal.* **2019**, *9*, 7912–7920. [10.1021/acscatal.9b00875](https://doi.org/10.1021/acscatal.9b00875)
+3. Gesslbauer, S.; Hutchinson, G.; White, A. J. P.; Burés, J.; Romain, C. Chirality-Induced Catalyst Aggregation: Insights into Catalyst Speciation and Activity Using Chiral Aluminum Catalysts in Cyclic Ester Ring-Opening Polymerization. *ACS Catal.* **2021**, *11*, 4084–4093. [10.1021/acscatal.0c05245](https://doi.org/10.1021/acscatal.0c05245)
