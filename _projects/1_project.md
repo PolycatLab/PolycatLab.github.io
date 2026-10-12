@@ -7,7 +7,7 @@ importance: 1
 category: "Monomers (ongoing)"
 ---
 
-Monomers that are thermodynamically easy to polymerise, for example those with high ring strain and a high ceiling temperature, give robust polymers that are difficult to turn back into monomer. Conversely, monomers with lower ring strain and a low ceiling temperature (low T<sub>c</sub>) give polymers that are easier to depolymerise, but these monomers are more challenging to polymerise in the first place.
+Monomers that are thermodynamically easy to polymerise, for example those with high ring strain and a high ceiling temperature, give polymers that are difficult to turn back into monomer. Conversely, monomers with lower ring strain and a low ceiling temperature (low T<sub>c</sub>) give polymers that are easier to depolymerise, but these monomers are more challenging to polymerise in the first place.
 
 One strategy to resolve this trade-off is the design of so-called hybrid monomers, which combine features of monomers with high and low ceiling temperatures. The aim is to make polymers that can be produced efficiently and also recycled back to their monomers.
 
