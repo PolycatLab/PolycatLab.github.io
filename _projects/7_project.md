@@ -5,7 +5,6 @@ description: A platform for using HPC
 img: assets/img/4.jpg
 importance: 7
 category: FAIR data
-related_publications: true
 ---
 
 Computational chemistry relies on high-performance computing (HPC), but HPC systems can be difficult to use for beginners and occasional users. Managing the resulting data, and then publishing it so that it follows the FAIR principles, adds further work.
@@ -19,7 +18,5 @@ CHAMP is open source and can be adapted to other HPC facilities. The code is ava
 For more details, check out our publication.
 
 ## Publications
-
-{% bibliography --cited %}
 
 1. Cave-Ayland, C.; Bearpark, M.; Romain, C.; Rzepa, H. S. CHAMP is a HPC Access and Metadata Portal. *J. Open Source Softw.* **2022**, *7* (70), 3824. [10.21105/joss.03824](https://doi.org/10.21105/joss.03824)

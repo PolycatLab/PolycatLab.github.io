@@ -5,7 +5,6 @@ description: TROPIC - a thermodynamic database for ROP
 img: assets/img/tropic.png
 importance: 5
 category: Polymers
-related_publications: true
 ---
 
 Chemical recycling, the depolymerisation of plastics back into their monomers, offers a route to a circular plastics economy. Whether a polymer can be recycled this way depends strongly on thermodynamics: the enthalpy and entropy of polymerisation, and the resulting ceiling temperature, determine how easily a polymer can be formed and how easily it can be converted back to its monomer.
@@ -25,7 +24,5 @@ TROPIC can be accessed through an interactive website or an application programm
 For more details, check out our publication.
 
 ## Publications
-
-{% bibliography --cited %}
 
 1. Reese, R. M. R.; Ganose, A. M.; Romain, C. Thermodynamics of Ring-Opening Polymerisation Informatics Collection (TROPIC): a database to enable polymer chemical recycling. *Faraday Discuss.* **2026**, *262*, 455–477. [10.1039/D5FD00098J](https://doi.org/10.1039/D5FD00098J)

@@ -5,7 +5,6 @@ description: A family of aluminium catecholate-amine catalysts for fast, control
 img: assets/img/catam.png
 importance: 2
 category: Catalysts
-related_publications: true
 ---
 
 The Al-*catam* catalysts are our family of aluminium complexes built on catecholate-amine (*catam*) ligands, developed for the ring-opening polymerisation (ROP) of cyclic esters, such as lactide and ε-caprolactone.
@@ -17,8 +16,6 @@ Across three studies, this project has progressively built up a mechanistic pict
 The group has a broad interest in catalyst design. We adopt a complementary experimental and computational approach to gain a better understanding of these systems and to guide the development of the next generation of polymerisation catalysts. Our holistic approach involves organic ligand and metal complex synthesis and characterisation, mechanistic studies (including structure–activity and kinetic studies), polymer synthesis and characterisation, and overarching computational studies.
 
 ## Publications
-
-{% bibliography --cited %}
 
 1. Gesslbauer, S.; Cheek, H.; White, A. J. P.; Romain, C. Highly active aluminium catalysts for room temperature ring-opening polymerisation of rac-lactide. *Dalton Trans.* **2018**, *47*, 10410–10414. [10.1039/C8DT01526K](https://doi.org/10.1039/c8dt01526k)
 2. Gesslbauer, S.; Savela, R.; Chen, Y.; White, A. J. P.; Romain, C. Exploiting Noncovalent Interactions for Room-Temperature Heteroselective rac-Lactide Polymerization Using Aluminum Catalysts. *ACS Catal.* **2019**, *9*, 7912–7920. [10.1021/acscatal.9b00875](https://doi.org/10.1021/acscatal.9b00875)

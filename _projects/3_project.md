@@ -5,7 +5,6 @@ description: Exploiting Non-Covalent Interactions (NCI) in polymerisation cataly
 img: assets/img/7.jpg
 importance: 3
 category: Catalysts
-related_publications: true
 ---
 
 Non-covalent interactions (NCIs) encompass a wide range of interactions, including ion pairing, hydrogen bonding, dipole-dipole interactions, π-π stacking, hydrophobic interactions, and van der Waals forces.
@@ -35,8 +34,6 @@ Our second strategy involves the in situ formation of heterobimetallic species t
 For more details, check out our recent publications.
 
 ## Publications
-
-{% bibliography --cited %}
 
 1. Gesslbauer, S.; Savela, R.; Chen, Y.; White, A. J. P.; Romain, C. Exploiting Noncovalent Interactions for Room-Temperature Heteroselective rac-Lactide Polymerization Using Aluminum Catalysts. *ACS Catal.* **2019**, *9*, 7912–7920. [10.1021/acscatal.9b00875](https://doi.org/10.1021/acscatal.9b00875)
 2. Baker, C. A.; Romain, C.; Long, N. J. Cationic-π Interactions enabling Hard/Soft Ti/Ag Heterobimetallic Cooperativity in Lactide Ring-Opening Polymerisation. *Chem. Commun.* **2021**, *57*, 12524–12527. [10.1039/D1CC05083D](https://doi.org/10.1039/D1CC05083D)
