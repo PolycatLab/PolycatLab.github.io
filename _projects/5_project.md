@@ -2,7 +2,7 @@
 layout: page
 title: Chemical Recycling
 description: TROPIC - a thermodynamic database for ROP
-img: assets/img/1.jpg
+img: assets/img/tropic.png
 importance: 5
 category: Polymers
 related_publications: true
