@@ -14,6 +14,12 @@ Recent efforts have determined these thermodynamic parameters experimentally or 
 
 To address this, we developed TROPIC (Thermodynamics of Ring-Opening Polymerisation Informatics Collection), an open-source database of experimental and computational thermodynamic parameters for ring-opening polymerisation (ROP), collected from the academic literature. TROPIC links each thermodynamic parameter to the experimental conditions or the computational methodology used to determine it, so that the data can be analysed further.
 
+<div class="row justify-content-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/tropic_logo.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 TROPIC can be accessed through an interactive website or an application programming interface (API), and it is a first step towards the data-driven discovery of new functional polymers designed for recycling.
 
 For more details, check out our publication.
