@@ -80,7 +80,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-al-catam",
           title: 'Al-Catam',
-          description: "Our family of Aluminium catam catalysts for ROP",
+          description: "A family of aluminium catecholate-amine catalysts for fast, controlled, and highly selective ring-opening polymerisation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-nci",
@@ -88,11 +88,6 @@ ninja.data = [{
           description: "Exploiting Non-Covalent Interactions (NCI) in polymerisation catalysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-metal-metal-cooperativity",
-          title: 'Metal-Metal cooperativity',
-          description: "Boosting Ti-salen catalyst activity with a pinch of silver salt",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
             },},{id: "projects-chemical-recycling",
           title: 'Chemical Recycling',
           description: "TROPIC - a thermodynamic database for ROP",
