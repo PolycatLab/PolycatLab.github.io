@@ -80,7 +80,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-al-catam",
           title: 'Al-Catam',
-          description: "A family of aluminium catecholate-amine catalysts for fast, controlled, and highly selective ring-opening polymerisation",
+          description: "Our family of Aluminium catam catalysts for ROP",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-nci",
