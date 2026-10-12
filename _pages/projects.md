@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of our ongoing projects...
 nav: false
 nav_order: 3
-display_categories: [Catalysts, Polymers, FAIR data]
+display_categories: [Catalysts, Polymers, FAIR data, "Monomers (ongoing)"]
 horizontal: false
 ---
 

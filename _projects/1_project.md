@@ -4,7 +4,7 @@ title: Monomer design
 description: Hybrid and low Tc monomers (coming soon)
 img: assets/img/12.jpg
 importance: 1
-category: Monomers
+category: "Monomers (ongoing)"
 ---
 
 Every project has a beautiful feature showcase page.
