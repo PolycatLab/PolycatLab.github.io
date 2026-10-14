@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <div class="mb-4">
-    {% include figure.liquid path="assets/img/overview_project.png" class="img-fluid" %}
+    {% include figure.liquid path="assets/img/lifecycle.png" class="img-fluid" %}
 </div>
 
 <!-- pages/projects.md -->
