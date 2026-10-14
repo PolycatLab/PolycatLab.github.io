@@ -37,3 +37,7 @@ Thus, our core expertise is in catalysis applied to polymer chemistry, including
 Our projects span all along the life cycle of plastics, from designing new monomers, investigating new catalysts as well as looking at polymers end-of-life. 
 
 For more details, don’t hesitate to look at our ongoing projects or to contact us. We are always happy to collaborate. 
+
+<div style="clear: both;">
+    {% include figure.liquid path="assets/img/overview_project.png" class="img-fluid" %}
+</div>
