@@ -2,7 +2,7 @@
 layout: page
 title: Al-Catam
 description: A family of aluminium catecholate-amine catalysts for fast, controlled, and highly selective ring-opening polymerisation
-img: assets/img/catam.png
+img: assets/img/catam_card.jpg
 importance: 2
 category: Catalysts
 ---
