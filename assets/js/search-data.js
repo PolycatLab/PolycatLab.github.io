@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of our ongoing projects...",
+          description: "A growing collection of our ongoing projects spanning all along the life cycle of plastics",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
