@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of our ongoing projects...
+description: A growing collection of our ongoing projects spanning all along the life cycle of plastics
 nav: true
 nav_order: 3
 display_categories: [Catalysts, Polymers, FAIR data, "Monomers (ongoing)"]
