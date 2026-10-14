@@ -17,15 +17,12 @@ To date, we have reported two complementary strategies.
 
 The first employs *catam* aluminium catalysts, exploiting the cooperative role of the NH moieties within the *catam* ligand scaffold. This approach combines elements of organocatalysis and metal-based catalysis to enhance polymerisation performance.
 
+Our second strategy involves the in situ formation of heterobimetallic species through the control of cation-π interactions between the phenolate moieties of salen-based titanium catalysts and silver salts. This enables the modulation of catalyst behaviour through secondary-sphere interactions.
+
 <div class="row justify-content-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/NCI1.png" title="CatAm aluminium catalyst with N–H hydrogen-bond donors" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-
-Our second strategy involves the in situ formation of heterobimetallic species through the control of cation-π interactions between the phenolate moieties of salen-based titanium catalysts and silver salts. This enables the modulation of catalyst behaviour through secondary-sphere interactions.
-
-<div class="row justify-content-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/NCI2.png" title="Ti-salen catalyst interacting with a silver cation (cation-π) and a weakly coordinating anion (WCA)" class="img-fluid rounded z-depth-1" %}
     </div>
