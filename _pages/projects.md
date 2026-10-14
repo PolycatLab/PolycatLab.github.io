@@ -9,6 +9,10 @@ display_categories: [Catalysts, Polymers, FAIR data, "Monomers (ongoing)"]
 horizontal: false
 ---
 
+<div class="mb-4">
+    {% include figure.liquid path="assets/img/overview_project.png" class="img-fluid" %}
+</div>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
