@@ -7,6 +7,12 @@ importance: 2
 category: Catalysts
 ---
 
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/catam_card.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 The Al-*catam* catalysts are our family of aluminium complexes built on catecholate-amine (*catam*) ligands, developed for the ring-opening polymerisation (ROP) of cyclic esters, such as lactide and ε-caprolactone.
 
 <div class="row justify-content-center">
