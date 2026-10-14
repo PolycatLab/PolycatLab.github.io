@@ -7,17 +7,17 @@ importance: 5
 category: Polymers
 ---
 
-Chemical recycling, the depolymerisation of plastics back into their monomers, offers a route to a circular plastics economy. Whether a polymer can be recycled this way depends strongly on thermodynamics: the enthalpy and entropy of polymerisation, and the resulting ceiling temperature, determine how easily a polymer can be formed and how easily it can be converted back to its monomer.
-
-Recent efforts have determined these thermodynamic parameters experimentally or evaluated them computationally, with the aim of designing polymers that are primed for chemical recycling. However, this information is scattered across the literature and is difficult to compare.
-
-To address this, we developed TROPIC (Thermodynamics of Ring-Opening Polymerisation Informatics Collection), an open-source database of experimental and computational thermodynamic parameters for ring-opening polymerisation (ROP), collected from the academic literature. TROPIC links each thermodynamic parameter to the experimental conditions or the computational methodology used to determine it, so that the data can be analysed further.
-
 <div class="row justify-content-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/tropic_logo.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+Chemical recycling, the depolymerisation of plastics back into their monomers, offers a route to a circular plastics economy. Whether a polymer can be recycled this way depends strongly on thermodynamics: the enthalpy and entropy of polymerisation, and the resulting ceiling temperature, determine how easily a polymer can be formed and how easily it can be converted back to its monomer.
+
+Recent efforts have determined these thermodynamic parameters experimentally or evaluated them computationally, with the aim of designing polymers that are primed for chemical recycling. However, this information is scattered across the literature and is difficult to compare.
+
+To address this, we developed TROPIC (Thermodynamics of Ring-Opening Polymerisation Informatics Collection), an open-source database of experimental and computational thermodynamic parameters for ring-opening polymerisation (ROP), collected from the academic literature. TROPIC links each thermodynamic parameter to the experimental conditions or the computational methodology used to determine it, so that the data can be analysed further.
 
 TROPIC can be accessed through an interactive website or an application programming interface (API), and it is a first step towards the data-driven discovery of new functional polymers designed for recycling.
 
