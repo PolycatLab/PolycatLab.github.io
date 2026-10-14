@@ -2,7 +2,7 @@
 layout: page
 title: NCI
 description: Exploiting Non-Covalent Interactions (NCI) in polymerisation catalysis
-img: assets/img/7.jpg
+img: assets/img/NCI_card.png
 importance: 3
 category: Catalysts
 ---

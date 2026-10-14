@@ -2,7 +2,7 @@
 layout: page
 title: Monomer design
 description: Hybrid and low Tc monomers (coming soon)
-img: assets/img/12.jpg
+img: assets/img/monomer_card.png
 importance: 1
 category: "Monomers (ongoing)"
 ---

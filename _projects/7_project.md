@@ -2,7 +2,7 @@
 layout: page
 title: CHAMP
 description: A platform for using HPC
-img: assets/img/4.jpg
+img: assets/img/CHAMP_card.png
 importance: 7
 category: FAIR data
 ---

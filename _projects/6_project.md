@@ -2,7 +2,7 @@
 layout: page
 title: FAIR NMR Data
 description: Workflow for NMR data publication
-img: assets/img/7.jpg
+img: assets/img/NMR_card.png
 importance: 6
 category: FAIR data
 ---
