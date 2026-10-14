@@ -7,6 +7,12 @@ importance: 7
 category: FAIR data
 ---
 
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/CHAMP_card.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 Computational chemistry relies on high-performance computing (HPC), but HPC systems can be difficult to use for beginners and occasional users. Managing the resulting data, and then publishing it so that it follows the FAIR principles, adds further work.
 
 To tackle both problems, we developed CHAMP (HPC Access and Metadata Portal), together with Imperial's Research Computing Service and colleagues in the Department of Chemistry. CHAMP is a web portal that provides a simple interface for running packaged software on an HPC batch system. Users create a job by selecting from lists of configured resources and software, upload the files needed for the calculation, and submit it. Information about the software, the resources and the submission is recorded for every job, which makes it easy to search for and filter past calculations. In this way, CHAMP also works as an electronic laboratory notebook for computational chemistry.

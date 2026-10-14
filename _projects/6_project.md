@@ -7,6 +7,12 @@ importance: 6
 category: FAIR data
 ---
 
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/NMR_card.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 Research data are most valuable when other people can find them, access them and reuse them.
 
 This is the idea behind the FAIR principles: data should be Findable, Accessible, Interoperable and Reusable. In practice, though, publishing FAIR data is often seen as extra work that begins only after the paper and its supporting information are finished.
